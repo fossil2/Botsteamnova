@@ -1,3 +1,10 @@
+/*
+ * Projekt: https://github.com/fossil2/BotsteamNova.git
+ * Autor: Fossil
+ * Datum: 2026-02-16
+ */
+
+
 <?php
 
 /**
